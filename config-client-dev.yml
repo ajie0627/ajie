@@ -18,3 +18,5 @@ management:
 ribbon:
   ReadTimeout: 5000
   SocketTimeout: 5000
+  
+renyingjie： 777777
